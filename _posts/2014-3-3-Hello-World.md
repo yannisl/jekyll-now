@@ -6,4 +6,4 @@ published: true
 
 These are a bunch of notes for me. Nothing really to excite Github travellers...
 
-Use [prose](https://prose.io) to edit
+Use [prose](http://prose.io) to edit
