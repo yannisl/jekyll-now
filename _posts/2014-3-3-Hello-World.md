@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Yiannis Laz Notes
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+These are a bunch of notes for me. Nothing really too excite Github traveller...
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
